@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rajendraacharya/Desktop/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj": {}
+    "/Users/rajendraacharya/Desktop/dot_net_CRUDE/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj": {}
   },
   "projects": {
-    "/Users/rajendraacharya/Desktop/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj": {
+    "/Users/rajendraacharya/Desktop/dot_net_CRUDE/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rajendraacharya/Desktop/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj",
+        "projectUniqueName": "/Users/rajendraacharya/Desktop/dot_net_CRUDE/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj",
         "projectName": "StudentPortal.Web",
-        "projectPath": "/Users/rajendraacharya/Desktop/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj",
+        "projectPath": "/Users/rajendraacharya/Desktop/dot_net_CRUDE/Dot_net/StudentPortal.Web/StudentPortal.Web.csproj",
         "packagesPath": "/Users/rajendraacharya/.nuget/packages/",
-        "outputPath": "/Users/rajendraacharya/Desktop/Dot_net/StudentPortal.Web/obj/",
+        "outputPath": "/Users/rajendraacharya/Desktop/dot_net_CRUDE/Dot_net/StudentPortal.Web/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/rajendraacharya/.nuget/NuGet/NuGet.Config"

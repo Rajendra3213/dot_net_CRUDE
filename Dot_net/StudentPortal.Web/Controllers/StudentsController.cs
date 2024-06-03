@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-using System.Reflection.Metadata.Ecma335;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using StudentPortal.Web.Data;
@@ -34,6 +32,7 @@ namespace StudentPortal.Web.Controllers
             return View();
 
         }
+
         [HttpGet]
         public async Task<IActionResult> List()
         {

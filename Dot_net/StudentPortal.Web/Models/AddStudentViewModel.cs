@@ -9,3 +9,4 @@ namespace StudentPortal.Web.Models
         public bool Subscribed { get; set; }
     }
 }
+
